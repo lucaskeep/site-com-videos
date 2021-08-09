@@ -1,5 +1,5 @@
-![index](https://user-images.githubusercontent.com/75318227/126544622-dc468732-ca1e-4259-9000-79f12441fe5b.png)
-![python-6](https://user-images.githubusercontent.com/75318227/126546031-0dd39703-c768-46cc-89d9-cf9283c0db08.png)
+![index](https://user-images.githubusercontent.com/75318227/128735459-b99ab8aa-183e-44a2-bbe0-78e203b42b15.png)
+![python](https://user-images.githubusercontent.com/75318227/128735843-9b874e42-5906-414a-a3c1-6118c4e33a9d.png)
 
 # Uma grande conquista!
 
