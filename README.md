@@ -3,12 +3,12 @@
 
 # Uma grande conquista!
 
-Conseguir criar esse simples site foi 
+Conseguir criar esse site com vídeos foi 
 um grande passo para mim! 
 
 # Desafio do Guanabara
 
-Criar esse site foi um desafio feito pelo
+Criar esse site foi um desafio proposto pelo
 prof. Gustavo Guanabara em seu curso
 de Html e Css
 
